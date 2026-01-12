@@ -3,10 +3,13 @@ Apple
 Brisket
 burger
 cheese
+chips
+meatloaf
 Pho
 pie
 Pizza
 Ramen
+spaghetti
 Steak
 Sushi
 Tacos
