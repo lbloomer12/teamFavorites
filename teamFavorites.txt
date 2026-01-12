@@ -5,8 +5,14 @@ Brisket
 burger
 cheese
 Chicken
+chips
+meatloaf
 pie
 Pizza
+Pho
+Ramen
 Shrimp Alfredo
+spaghetti
+Steak
 Sushi
 Tacos
